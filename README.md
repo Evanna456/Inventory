@@ -1,11 +1,12 @@
 ## Inventory
 
+Inventory System
+
 > Under Construction.
 
 ## Usage
 
 * 1.)Download and Install [.NET 6 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/6.0).
-* 2.)Run Executable.
 
 ## ASP.NET Core
 
